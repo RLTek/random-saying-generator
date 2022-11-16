@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+button{
+    width: 15em;
+    height: 5em;
+    font-size: 1.25em;
+    border-radius: 2em;
+    margin: auto;
+    
+}
+
+.saying-button{
+    margin-top: 2em;
+}
