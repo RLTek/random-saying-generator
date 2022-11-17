@@ -14,7 +14,11 @@ button{
     font-size: 1.25em;
     border-radius: 2em;
     margin: auto;
-    
+    cursor: pointer;
+    box-shadow: .25em .25em;
+}
+button:hover {
+    box-shadow: none;
 }
 
 .saying-button{
